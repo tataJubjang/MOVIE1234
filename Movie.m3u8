@@ -3,3 +3,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://pl-origin.ais-vidnt.com/ais/play/origin
 https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/origin/VOD/playlist/ais-kbHdH1-LgIvc/index.m3u8?playbackUrlPrefix=http%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A9900&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=641dc8e63da293c1310048c00a20b71d&chunkHttps=false&tmid=ais-kbHdH1-LgIvc&tpbk=EEbP1xCCT6nrISRg&rrt=1710296343&tmod=rfk&rsid=79c46c54-148e-450e-9c60-c8e7cac6ba0d&tuid=guestMd57dc65fa16532b2cd66880ffded62acf&cdn=redfox&tdid=19273e468daab270&origin=emc&tfa=f0-fc&tttl=1710382742
+
+#EXTINF:-1 tvg-logo="https:https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/ais-C3LmH1-C9mwc.98224552.backdrop.original.jpg",Over-Drive-ทีมซิ่งผ่าฟ้า
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://pl-origin.ais-vidnt.com/ais/play/origin
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/VOD/playlist/ais-C3LmH1-C9mwc/01.m3u8?playbackUrlPrefix=http%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A9900&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Forigin&tt=2a11c458242cf2e39d6a56c9414b6656&chunkHttps=false&tmid=ais-C3LmH1-C9mwc&tpbk=1uXalarDsxeS46zj&rrt=1710299120&tmod=rfk&rsid=5c3e2d35-a6e3-473f-92d9-2cc5423b53c9&tuid=guestMd57dc65fa16532b2cd66880ffded62acf&cdn=redfox&tdid=19273e468daab270&origin=emc&tfa=f0-nfc&tttl=1710299660
